@@ -1,1 +1,2 @@
-"Trenton Schmidt" 
+"Trenton Schmidt"
+schmtren@oregonstate.edu 
