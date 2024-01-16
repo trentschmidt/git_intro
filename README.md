@@ -1,2 +1,1 @@
-"Trenton Schmidt"
-35 
+"Trenton Schmidt" 
